@@ -1,0 +1,6 @@
+python-telegram-bot==20.8
+aiohttp
+python-dotenv
+openai
+ccxt
+uvloop
